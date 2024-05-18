@@ -11,7 +11,7 @@ public static class Pilot
 {
     public static void Generate()
     {
-        Console.WriteLine("Generating luggages");
+        Console.WriteLine("Generating pilots");
         const int MAX_CAP = 2000;
         File.WriteAllText("../pilot.sql", string.Empty);
         FileStream f = File.Create("../pilot.sql");
