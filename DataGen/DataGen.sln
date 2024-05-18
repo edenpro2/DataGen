@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGen", "DataGen\DataGen.csproj", "{C9F751E0-C387-45C9-9C06-B91A10BB8763}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9F751E0-C387-45C9-9C06-B91A10BB8763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9F751E0-C387-45C9-9C06-B91A10BB8763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9F751E0-C387-45C9-9C06-B91A10BB8763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9F751E0-C387-45C9-9C06-B91A10BB8763}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E9F2F2E-DBBA-4539-A8C1-BC50B73040EB}
+	EndGlobalSection
+EndGlobal
